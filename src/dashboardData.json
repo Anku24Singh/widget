@@ -1,0 +1,39 @@
+{
+    "CSPM Executive Dashboard": [
+      {
+        "id": 1,
+        "name": "Cloud Accounts",
+        "text": "Details about cloud accounts."
+      },
+      {
+        "id": 2,
+        "name": "Cloud Account Risk Assessment",
+        "text": "Risk assessment details."
+      }
+    ],
+    "CWPP Dashboard": [
+      {
+        "id": 3,
+        "name": "Top 5 Namespace Specific Alerts",
+        "text": "Alerts for namespaces."
+      },
+      {
+        "id": 4,
+        "name": "Workload Alerts",
+        "text": "Alerts for workloads."
+      }
+    ],
+    "Registry Scan": [
+      {
+        "id": 5,
+        "name": "Image Risk Assessment",
+        "text": "Risk assessment of images."
+      },
+      {
+        "id": 6,
+        "name": "Image Security Issues",
+        "text": "Security issues related to images."
+      }
+    ]
+  }
+  
